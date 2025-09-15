@@ -22,4 +22,4 @@ env/
 Thumbs.db
 
 # Model files
-*.h5
+#*.h5

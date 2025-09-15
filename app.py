@@ -87,7 +87,7 @@ def load_models():
     models = {}
     model_files = {
         "Custom CNN": "custom_model.h5",
-        "Transfer Learning": "coffee_bean_classifier.h5"
+        "Transfer Learning": "CoffeeBeanbest_model.h5"
     }
     
     for model_name, filename in model_files.items():
